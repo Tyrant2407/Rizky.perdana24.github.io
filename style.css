@@ -1,0 +1,63 @@
+p {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+.jumbotron {
+  background-color: #193446;
+}
+
+.display {
+  color: white;
+}
+
+h1 {
+  color: white;
+  padding-top: 19px;
+}
+
+h3 {
+  font-size: 45px;
+}
+
+h4 {
+  color: white;
+
+}
+
+.empty {
+  height: 60px;
+  padding-top: 40px;
+}
+
+.btn {
+  margin-right: 30px;
+  position: relative;
+}
+
+body{
+  height: 2655px;
+}
+
+.jumbotron {
+  background-color: ;
+}
+
+.nav-link {
+  color: #8b4508;
+}
+
+.btn {
+  height: 46px;
+  width: 87px;
+  background-color: rgb(72, 13, 154);
+}
+
+h6 {
+  color: white;
+  font-size: 40px;
+  padding-top: 10px;
+}
